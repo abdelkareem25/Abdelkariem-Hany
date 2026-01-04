@@ -1,5 +1,6 @@
 <div align="center">
 ### Hi there, I'm Abdelkarim Hany 👋
+  
 #### .NET Developer | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/abdelkareem-badr-483a811b4](https://www.linkedin.com/in/abdelkareem-badr-483a811b4/))
@@ -27,11 +28,9 @@
 
 </div>
 
-<div align="center">
+
 ### **Tools & Platforms**
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
