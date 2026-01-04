@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I'm Abdelkarim Hany 👋
 #### .NET Developer | Software Engineer
 
@@ -11,15 +12,6 @@
 <div align="center">
 
 ### 🛠 Backend Skills
-
-**Microservices** • **REST APIs** • **SOLID Principles**  
-**Design Patterns** • **Unit Testing** • **Agile / Scrum**
-
-</div>
-
-
-## 🛠️ Tech Stack
-
 ### **Primary Expertise**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -33,9 +25,13 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
 
 
+</div>
+
+<div align="center">
 ### **Tools & Platforms**
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
