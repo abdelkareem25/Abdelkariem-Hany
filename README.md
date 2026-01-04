@@ -8,6 +8,15 @@
 </div>
 
 ---
+<div align="center">
+
+### 🛠 Backend Skills
+
+**Microservices** • **REST APIs** • **SOLID Principles**  
+**Design Patterns** • **Unit Testing** • **Agile / Scrum**
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
